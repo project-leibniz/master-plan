@@ -9,8 +9,8 @@ The Project Leibniz master plan
 - Examples of initiatives that the world could still use:
   - Secure by default (lets end this "default password" awfulness)
   - Automated test suite / pentesting / vulnerability scans
-- Manifest projects:
-  - Verified Modules Initiative
+- Manifest project:
+  - [Verified Modules Initiative](https://github.com/VerifiedModules/)
 
 Auxilliary point: demonstrate / convince the world to realize that no software is an island - in reality the borders drawn between different softwares are artificial, and we could benefit from thinking about all the world's software as a single enormous codebase that can be integration tested.
 
@@ -20,7 +20,7 @@ Auxilliary point: demonstrate / convince the world to realize that no software i
   - Consider the success of RFC 2119
 - Create a universal error database (error exchange) with plugins for all IDEs/compilers
 - Manifest project:
-  - The Programmer's Thesaurus
+  - [The Programmer's Thesaurus](https://github.com/project-leibniz/thesaurus)
   
 Auxilliary goal: Help programmers realize how similar languages are conceptually, building on the transpiler craze to make the next phase not seem totally crazy.
 
@@ -30,6 +30,6 @@ Auxilliary goal: Help programmers realize how similar languages are conceptually
 - Create the first universal parser (based on parser combinators and state machine)
 - Demonstrate that interpreters, compilers, linters, static analyizers, spell checkers can all be represented the same way, as semantics applied to an AST. Start the world down a path towards a universal semantic applicator that can do anything in any language.
 - Manifest project:
-  - Characteristica Universalis
+  - [Characteristica Universalis](https://github.com/project-leibniz/cu)
 
 Auxilliary goal: World peace. Harmony. The end of frustration and compromises resulting from fragmented platforms. Facilitate solving the global problems that challenege us.
