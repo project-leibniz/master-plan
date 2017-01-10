@@ -20,7 +20,8 @@ Auxilliary point: demonstrate / convince the world to realize that no software i
   - Consider the success of RFC 2119
 - Create a universal error database (error exchange) with plugins for all IDEs/compilers
 - Manifest project:
-  - [The Programmer's Thesaurus](https://github.com/project-leibniz/thesaurus)
+  - ~~[The Programmer's Thesaurus](https://github.com/project-leibniz/thesaurus)~~ (will do after the universal error database which is more pressing)
+  - [Error.Directory](https://github.com/wmhilton/error.directory)
   
 Auxilliary goal: Help programmers realize how similar languages are conceptually, building on the transpiler craze to make the next phase not seem totally crazy.
 
